@@ -1,0 +1,6 @@
+# Streamlit secrets (CỰC KỲ QUAN TRỌNG)
+.streamlit/secrets.toml
+
+# Dữ liệu cục bộ (Nếu bạn còn giữ file JSON)
+progress_vault.json
+migrate.py
